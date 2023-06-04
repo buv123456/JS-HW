@@ -1,2 +1,2 @@
 # goit_tutorial
-first step in full-stack
+first step in js
